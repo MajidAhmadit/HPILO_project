@@ -1,0 +1,17 @@
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="administrator" PASSWORD="G0t2BTuf">
+      <USER_INFO MODE="write">
+         <ADD_USER
+           USER_NAME="admin"
+           USER_LOGIN="admin"
+           PASSWORD="i82much!!">
+            <ADMIN_PRIV value ="Y"/>
+            <REMOTE_CONS_PRIV value ="Y"/>
+            <RESET_SERVER_PRIV value ="Y"/>
+            <VIRTUAL_MEDIA_PRIV value ="Y"/>            
+            <CONFIG_ILO_PRIV value="Y"/>
+         </ADD_USER>
+      </USER_INFO>
+   </LOGIN>
+</RIBCL>
+

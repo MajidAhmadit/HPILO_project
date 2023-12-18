@@ -1,0 +1,17 @@
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="admin" PASSWORD="i82much!!">
+      <USER_INFO MODE="write">
+         <ADD_USER
+           USER_NAME="simserverconsole"
+           USER_LOGIN="simserverconsole"
+           PASSWORD="G0t2BTuf">
+            <ADMIN_PRIV value ="N"/>
+            <REMOTE_CONS_PRIV value ="Y"/>
+            <RESET_SERVER_PRIV value ="Y"/>
+            <VIRTUAL_MEDIA_PRIV value ="Y"/>            
+            <CONFIG_ILO_PRIV value="N"/>
+         </ADD_USER>
+      </USER_INFO>
+   </LOGIN>
+</RIBCL>
+

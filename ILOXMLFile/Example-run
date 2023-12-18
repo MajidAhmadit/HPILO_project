@@ -1,0 +1,3 @@
+for server in $(cat ESM-Nara); do perl locfg.pl -s ${server}-sc.ott.ciena.com -f scripts/esm.xml; done
+
+perl locfg.pl -s onxl7955-sc.ott.ciena.com -f scripts/getnic.xml

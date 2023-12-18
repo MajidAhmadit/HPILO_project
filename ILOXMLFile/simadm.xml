@@ -1,0 +1,17 @@
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="admin" PASSWORD="i82much!!">
+      <USER_INFO MODE="write">
+         <ADD_USER
+           USER_NAME="simadm"
+           USER_LOGIN="simadm"
+           PASSWORD="NMSsims1!">
+            <ADMIN_PRIV value ="N"/>
+            <REMOTE_CONS_PRIV value ="Y"/>
+            <RESET_SERVER_PRIV value ="Y"/>
+            <VIRTUAL_MEDIA_PRIV value ="N"/>            
+            <CONFIG_ILO_PRIV value="N"/>
+         </ADD_USER>
+      </USER_INFO>
+   </LOGIN>
+</RIBCL>
+

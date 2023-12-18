@@ -1,0 +1,12 @@
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="administrator" PASSWORD="i82much!!">
+      <RIB_INFO MODE="write">
+         <MOD_GLOBAL_SETTINGS>
+            <SESSION_TIMEOUT value="120"/>
+            <AUTHENTICATION_FAILURE_DELAY_SECS value="30"/>  
+            <AUTHENTICATION_FAILURES_BEFORE_DELAY value="5"/>
+         </MOD_GLOBAL_SETTINGS>
+      </RIB_INFO>
+   </LOGIN>
+</RIBCL>
+

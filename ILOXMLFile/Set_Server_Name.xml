@@ -1,0 +1,8 @@
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="admin" PASSWORD="i82much!!">
+      <SERVER_INFO MODE="write">
+         <SERVER_NAME value ="ServerName"/>
+      </SERVER_INFO>
+   </LOGIN>
+</RIBCL>

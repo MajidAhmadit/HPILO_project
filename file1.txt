@@ -1,0 +1,7 @@
+10.181.68.163   onxl0347-sc.ott.ciena.com
+10.181.68.165   onxl0348-sc.ott.ciena.com
+10.181.68.167   onxl0349-sc.ott.ciena.com
+10.181.68.169   onxl0350-sc.ott.ciena.com
+10.181.68.191   onxl0351-sc.ott.ciena.com
+10.181.68.193   onxl0352-sc.ott.ciena.com
+10.181.68.195   onxl0353-sc.ott.ciena.com

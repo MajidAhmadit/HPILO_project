@@ -1,0 +1,25 @@
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="administrator" PASSWORD="i82much!!">
+      <USER_INFO MODE="write">
+         <ADD_USER
+           USER_NAME="admin"
+           USER_LOGIN="admin"
+           PASSWORD="i82much!!">
+            <ADMIN_PRIV value ="Y"/>
+            <REMOTE_CONS_PRIV value ="Y"/>
+            <RESET_SERVER_PRIV value ="Y"/>
+            <VIRTUAL_MEDIA_PRIV value ="Y"/>            
+            <CONFIG_ILO_PRIV value="Y"/>
+         </ADD_USER>
+      </USER_INFO>
+
+      <RIB_INFO MODE="write">
+         <MOD_GLOBAL_SETTINGS>
+            <SESSION_TIMEOUT value="120"/>
+            <AUTHENTICATION_FAILURE_DELAY_SECS value="30"/>  
+            <AUTHENTICATION_FAILURES_BEFORE_DELAY value="5"/>
+         </MOD_GLOBAL_SETTINGS>
+      </RIB_INFO>
+   </LOGIN>
+</RIBCL>
+

@@ -1,0 +1,545 @@
+
+Server Blade #1 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M26070275
+        UUID: 30373237-3132-4D32-3236-303730323735
+        Server Name: onxl0138.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A4:A1:90
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A4:A1:91
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A4:A1:98
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A4:A1:99
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M26070275
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.49
+        MAC Address: 70:10:6F:49:8B:64
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #2 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number:
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M261700PX
+        UUID: 00000000-0000-4D32-3236-313730305058
+        Server Name: onxl0151.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:B7:2C:00
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:B7:2C:01
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:B7:2C:08
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:B7:2C:09
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.62
+        MAC Address: 70:10:6F:4F:DF:08
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #3 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 813198-B21
+        System Board Spare Part Number: 843305-001
+        Serial Number: 2M265204T9
+        UUID: 31333138-3839-4D32-3236-353230345439
+        Server Name: onxl0261.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 03/25/2019
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A4:8D:40
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A4:8D:41
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A4:8D:48
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A4:8D:49
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M265204T9
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.100.77
+        MAC Address: 70:10:6F:BB:78:3C
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #4 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M260607KH
+        UUID: 30373237-3132-4D32-3236-303630374B48
+        Server Name: onxl0218.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A4:7A:40
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A4:7A:41
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A4:7A:48
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A4:7A:49
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M260607KH
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.97.252
+        MAC Address: 70:10:6F:45:E3:C2
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #5 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M260606HK
+        UUID: 30373237-3132-4D32-3236-30363036484B
+        Server Name: onxl0162.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:AA:8E:00
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:AA:8E:01
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:AA:8E:08
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:AA:8E:09
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M260606HK
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.72
+        MAC Address: 58:20:B1:0B:F9:60
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #6 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M260607K0
+        UUID: 30373237-3132-4D32-3236-303630374B30
+        Server Name: onxl0166.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (20 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A3:81:10
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A3:81:11
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A3:81:18
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A3:81:19
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M260607K0
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.76
+        MAC Address: 70:10:6F:47:CC:4A
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #7 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 744409-001
+        Serial Number: USE522RBRB
+        UUID: 30373237-3132-5355-4535-323252425242
+        Server Name: onxl0312.ott.ciena.com
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A6:92:50
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A6:92:51
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A6:92:58
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A6:92:59
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILOUSE522RBRB
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.100.25
+        MAC Address: 50:65:F3:68:6B:48
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #8 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 843305-001
+        Serial Number: 2M273001QZ
+        UUID: 30373237-3132-4D32-3237-33303031515A
+        Server Name: onxl0127
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:AA:EB:30
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:AA:EB:31
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:AA:EB:38
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:AA:EB:39
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M273001QZ
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.38
+        MAC Address: 98:F2:B3:E6:54:48
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #9 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M261204CN
+        UUID: 30373237-3132-4D32-3236-31323034434E
+        Server Name: onxl0128
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 376832 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A9:F1:20
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A9:F1:21
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A9:F1:28
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A9:F1:29
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M261204CN
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.39
+        MAC Address: 70:10:6F:4D:3B:00
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #10 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M261204CL
+        UUID: 30373237-3132-4D32-3236-31323034434C
+        Server Name: onxl0122
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A9:D6:A0
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A9:D6:A1
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A9:D6:A8
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A9:D6:A9
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M261204CL
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.33
+        MAC Address: 70:10:6F:4D:3B:60
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #11 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 843305-001
+        Serial Number: 2M272901F8
+        UUID: 30373237-3132-4D32-3237-323930314638
+        Server Name: onxl0119
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 196608 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:AA:D8:F0
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:AA:D8:F1
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:AA:D8:F8
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:AA:D8:F9
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M272901F8
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.31
+        MAC Address: 70:10:6F:CA:15:34
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #12 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 843305-001
+        Serial Number: 2M273003SS
+        UUID: 30373237-3132-4D32-3237-333030335353
+        Server Name: onxl0153
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A9:FA:80
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A9:FA:81
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A9:FA:88
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A9:FA:89
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M273003SS
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.64
+        MAC Address: 70:10:6F:CA:AD:06
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #13 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M261204CF
+        UUID: 30373237-3132-4D32-3236-313230344346
+        Server Name: onxl0121
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A9:EE:C0
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A9:EE:C1
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A9:EE:C8
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A9:EE:C9
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M261204CF
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.32
+        MAC Address: 70:10:6F:4C:B2:0A
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #14 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M261204CB
+        UUID: 30373237-3132-4D32-3236-313230344342
+        Server Name: onxl0124
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A9:D7:90
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A9:D7:91
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A9:D7:98
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A9:D7:99
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M261204CB
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.35
+        MAC Address: 70:10:6F:4D:3B:38
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #15 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M260607KK
+        UUID: 30373237-3132-4D32-3236-303630374B4B
+        Server Name: onxl0126
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A3:7F:50
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A3:7F:51
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A3:7F:58
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A3:7F:59
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M260607KK
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.37
+        MAC Address: 70:10:6F:45:FB:C6
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
+Server Blade #16 Information:
+        Type: Server Blade
+        Manufacturer: HP
+        Product Name: ProLiant BL460c Gen9
+        Part Number: 727021-B21
+        System Board Spare Part Number: 820254-001
+        Serial Number: 2M260607K7
+        UUID: 30373237-3132-4D32-3236-303630374B37
+        Server Name: onxl0159
+        Asset Tag:
+        ROM Version: I36 11/23/2021
+        Boot Mode: Legacy
+
+        CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (18 cores)
+        Memory: 393216 MB
+
+        FLB Adapter 1: HP FlexFabric 10Gb 2-port 536FLB Adapter
+         Ethernet FlexNIC (NIC 0) LOM1:1-a    EC:B1:D7:A4:74:50
+             FCoE FlexHBA LOM1:1-b            10:00:EC:B1:D7:A4:74:51
+         Ethernet FlexNIC (NIC 1) LOM1:2-a    EC:B1:D7:A4:74:58
+             FCoE FlexHBA LOM1:2-b            10:00:EC:B1:D7:A4:74:59
+
+        This server does not contain any mezzanine cards
+
+Management Processor Information:
+        Type: iLO4
+        Name: ILO2M260607K7
+        Firmware Version: 2.82 Feb 06 2023
+        IP Address: 10.190.103.69
+        MAC Address: 70:10:6F:47:C7:E4
+        Power Management Controller Version: 1.0.9
+        iLO Federation Capable: Yes
+
